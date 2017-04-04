@@ -266,7 +266,6 @@ public class SeñorIP extends javax.swing.JFrame {
             }
             
         });  
-        //cambiarlo por el de la pag.net
         txtSeccion4.addKeyListener(new KeyAdapter(){
              @Override
              public void keyTyped(KeyEvent tecla) {
